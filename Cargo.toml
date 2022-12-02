@@ -2,3 +2,7 @@
 name = "advent"
 version = "0.1.0"
 edition = "2021"
+
+[[bin]]
+name = "1"
+path = "src/1/main.rs"
